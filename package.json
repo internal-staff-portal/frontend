@@ -1,6 +1,10 @@
 {
   "name": "frontend",
   "version": "0.0.0",
+  "description": "Frontend Code of the Internal-Staff-Portal (ISP)",
+  "repository": "https://github.com/internal-staff-portal/frontend.git",
+  "author": "Laurenz1606 <laurenz.rausche@gmail.com>",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "build": "yarn clean && yarn format && react-scripts build",
